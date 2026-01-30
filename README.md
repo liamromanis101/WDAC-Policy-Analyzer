@@ -5,7 +5,7 @@ WDAC Policy Analyzer Script - Powershell
 
 This project provides a **non-admin, CLM-safe Windows Defender Application Control (WDAC) assessment script** that:
 
--   Parses WDAC XML CI policies
+-   Parses WDAC XML CI policies - It does not convert .cip binary policies to XML first. 
 -   Tests real binaries on disk
 -   Performs rename/relocation execution attempts
 -   Attributes blocks to WDAC, Defender, AppLocker, or Unknown
