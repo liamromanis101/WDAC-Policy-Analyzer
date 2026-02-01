@@ -21,6 +21,7 @@ It is designed for:
 -   Bypass discovery
 -   Red/blue team assurance
 -   Enterprise hardening assessments
+-   Designed to function in Constrained Language Mode (CLM)
 
 No elevation required.
 
